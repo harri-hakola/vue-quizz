@@ -1,24 +1,10 @@
 # quiz-app
 
-## Project setup
-```
-npm install
-```
+Vue:lla tehty tietovisa sovellus. 
+Hakee kysymykset Open Trivia DB API:sta https://opentdb.com/. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Tällä hetkellä hakee 20kpl monivalintakysymyksiä kaikista kategorioista. Sisältää 23 eri kategoriaa kolmella eri vaikeustasolla.
+API.n sivuilla saa helposti luotua uuden URL:in vaikka jostain tietystä kategoriasta. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Elementtien tyyleissä on käytetty Bootstrap Vueta https://bootstrap-vue.js.org/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
