@@ -8,3 +8,5 @@ API.n sivuilla saa helposti luotua uuden URL:in vaikka jostain tietystä kategor
 
 Elementtien tyyleissä on käytetty Bootstrap Vueta https://bootstrap-vue.js.org/
 
+Ohjelma on julkaistu: https://dos.seamk.fi/~epedu+k1901149/
+
